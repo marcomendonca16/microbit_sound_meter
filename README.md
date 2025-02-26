@@ -1,4 +1,11 @@
+## MATERIAIS
+- Micro:bit
+- Micro:bit Sensor Shield v2
+- Analog Sound Sensor
+- 2 cabos micro usb
+- Dupont Jumper Wire
 
+## LIGAÇÕES
 > Abrir esta página em [https://marcomendonca16.github.io/microbit_sound_meter/](https://marcomendonca16.github.io/microbit_sound_meter/)
 
 ## Utilizar como Extensão
